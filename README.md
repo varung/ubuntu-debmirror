@@ -23,7 +23,7 @@ TL;DR : This repository allows you to create & update your own Ubuntu or Debian 
     docker-compose up mirror
     ```
 
-    > This repository is shipped with the Ubuntu 18.04 default configuration (expect ~137G to be downloaded)
+    > This repository is shipped with the Ubuntu 22.04 default configuration
 
 3. (optional) Add a CRON job to keep your mirror up to date :
 
