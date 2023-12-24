@@ -26,7 +26,7 @@ section=main,restricted,universe,multiverse
 # List of updated releases in: https://wiki.ubuntu.com/Releases
 #
 
-release=bionic,bionic-security,bionic-updates,bionic-backports
+release=jammy,jammy-security,jammy-updates,jammy-backports
 
 # Server=       -h      # Server name, minus the protocol and the path at the end
 # CHANGE "*" to equal the mirror you want to create your mirror from. au. in Australia  ca. in Canada.
